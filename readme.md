@@ -1,7 +1,7 @@
 # Claude Official Website Mirror (1:1 Version)
 
 <div align="center">
-  <a href="README_zh.md">中文版 README</a>
+  <a href="readme_zh.md">中文版 README</a>
   </br>
   <p>My communication channel :<a href="https://t.me/cliptalk">https://t.me/cliptalk</a>
 </div>
