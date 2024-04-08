@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  app:
+    image: xyy001/fkclaude:latest
+    ports:
+      - "3650:3650"
